@@ -5,3 +5,10 @@ CREATE TABLE sampleTable (
     fname VARCHAR(30),
     lname VARCHAR(30)
 );
+
+-- Inserting data into sampleTable
+INSERT INTO sampleTable
+VALUES ('Idowu', 'NULL'),
+('Abass', 'Adekunle'),
+('Hamdan', 'Adewuyi'),
+('NULL', 'Abiola');

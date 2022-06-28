@@ -13,5 +13,8 @@ Get-AzResource
 # Remove resource group and all its content
 # Remove-AzResourceGroup -Name #Insert ResourceGroupName
 
+# Pause the process until input from user.
+Read-Host -Prompt "Press any key to continue..."
+
 # Remove all Resource Group
-Get-AzResourceGroup | Remove-AzResourceGroup
+# Get-AzResourceGroup | Remove-AzResourceGroup
