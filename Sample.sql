@@ -11,4 +11,5 @@ INSERT INTO sampleTable
 VALUES ('Idowu', 'NULL'),
 ('Abass', 'Adekunle'),
 ('Hamdan', 'Adewuyi'),
-('NULL', 'Abiola');
+('NULL', 'Abiola'),
+('Haneef', 'Adewuyi');
