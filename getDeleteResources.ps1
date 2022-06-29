@@ -17,4 +17,4 @@ Get-AzResource
 Read-Host -Prompt "Press any key to continue..."
 
 # Remove all Resource Group
-# Get-AzResourceGroup | Remove-AzResourceGroup
+Get-AzResourceGroup | Remove-AzResourceGroup
